@@ -1,5 +1,9 @@
-# Django
+# Django Girls Tutorial
+While following Django Girls Tutorial. Django Girls Tutorial link is used on [tutorial.djangogirls.org](https://tutorial.djangogirls.org/en/) so if you want to read it, please go there.
 
 
-## Django Girls Tutorial
-This is the source code repository for the Django Girls Tutorial. Django Girls Tutorial is used on [tutorial.djangogirls.org](https://tutorial.djangogirls.org/en/) so if you want to read it, please go there. If you want to contribute please do go further with this file.
+
+![djangoGirls4Git](https://user-images.githubusercontent.com/72544887/140509298-eca3e826-752e-4109-9dba-74f9ecd6e9ee.png)
+
+
+![Post4git](https://user-images.githubusercontent.com/72544887/140509797-198a5076-3381-4caf-b557-6d5c9d709e4f.png)
